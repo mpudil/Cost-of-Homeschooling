@@ -1,4 +1,9 @@
-# Cost of Homeschooling (written in Stata and R)
+# Cost of Homeschooling 
 
-Paper, data, and files related to determining the effect of maternal education and household income on the odds of child homeschooling.
+Article, data, and code for determining the effect of maternal education and household income on the odds of child homeschooling. Data from NCES. 
+
+Languages: Stata (primary), R
+
+Econometric Methods: Logistic regression with fixed effects
+
 
